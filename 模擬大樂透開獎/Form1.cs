@@ -38,6 +38,10 @@ namespace 模擬大樂透開獎
             {
                 parameterControl.ToggleButtonSelection(clickedButton);
                 UpdateDisplay();
+
+
+
+
             }
             
         }
